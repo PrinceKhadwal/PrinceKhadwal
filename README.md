@@ -1,3 +1,5 @@
+![logo](https://github.com/PrinceKhadwal/PrinceKhadwal/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate MERN Stack developer from Himachal Pradesh, India</h3>
 
