@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS and ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-of-prince.netlify.app/](https://portfolio-of-prince.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ezzportfolio.onrender.com](https://ezzportfolio.onrender.com)
 
 - 💬 Ask me about **MERN Stack**
 
