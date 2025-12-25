@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekhadwal&label=Profile%20views&color=0e75b6&style=flat" alt="princekhadwal" /> </p>
 
-- 🌱 I’m currently learning **NextJS and ReactJS**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://ezzportfolio.onrender.com](https://ezzportfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [https://ezzportfolio.onrender.com](https://ezzportfolio.onrender.com) ----- Please wait for 60-70 seconds for server to load because It is hosted on render free server which takes time to start
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **princekhadwal575@gmail.com**
+- 📫 How to reach me **princekhadwal475@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
