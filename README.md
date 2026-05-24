@@ -1,7 +1,7 @@
 ![logo](https://github.com/PrinceKhadwal/PrinceKhadwal/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate MERN Stack developer from Himachal Pradesh, India</h3>
+<h3 align="center">A passionate MERN Stack developer from Mohali, Punjab, India with a Total of 4 Months of Industry experience </h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://ezzportfolio.onrender.com](https://ezzportfolio.onrender.com) ----- Please wait for 60-70 seconds for server to load because It is hosted on render free server which takes time to start
+- 👨‍💻 All of my projects are available at [https://prince-k-portfolio.netlify.app/](https://prince-k-portfolio.netlify.app/) ----- Please wait for 60-70 seconds for server to load because It is hosted on render free server which takes time to start
 
 - 💬 Ask me about **MERN Stack**
 
