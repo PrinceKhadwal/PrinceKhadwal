@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekhadwal&label=Profile%20views&color=0e75b6&style=flat" alt="princekhadwal" /> </p>
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://prince-k-portfolio.netlify.app/](https://prince-k-portfolio.netlify.app/) ----- Please wait for 60-70 seconds for server to load because It is hosted on render free server which takes time to start
 
