@@ -1,7 +1,3 @@
-# Premium GitHub Profile README
-
-> **Note:** Replace your existing README.md with this content.
-
 ![logo](https://github.com/PrinceKhadwal/PrinceKhadwal/blob/main/github-header-image.png)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Prince%20Khadwal&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
