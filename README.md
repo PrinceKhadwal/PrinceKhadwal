@@ -67,15 +67,15 @@ Full Stack MERN Developer | DevOps Learner | Building Scalable Web Applications
 
 <p align="left">
 
-<a href="https://linkedin.com/in/prince-khadwal" target="_blank">
+<a href="https://www.linkedin.com/in/prince-khadwal-04003a229" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com/princekhadwal" target="_blank">
+<a href="https://x.com/PrinceKhadwal" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-<a href="https://instagram.com/just_prince_k" target="_blank">
+<a href="https://www.instagram.com/just_prince_k_" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
@@ -209,15 +209,6 @@ AWS                  ███░░░░░░░ 30%
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrinceKhadwal&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
