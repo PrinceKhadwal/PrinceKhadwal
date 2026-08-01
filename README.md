@@ -1,35 +1,244 @@
 ![logo](https://github.com/PrinceKhadwal/PrinceKhadwal/blob/main/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate MERN Stack developer from Mohali, Punjab, India with a Total of 6 Months of Industry experience </h3>
+<h1 align="center">Hi 👋, I'm Prince Khadwal</h1>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<h3 align="center">
+Full Stack MERN Developer | DevOps Learner | Building Scalable Web Applications
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princekhadwal&label=Profile%20views&color=0e75b6&style=flat" alt="princekhadwal" /> </p>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://prince-k-portfolio.netlify.app/](https://prince-k-portfolio.netlify.app/) ----- Please wait for 60-70 seconds for server to load because It is hosted on render free server which takes time to start
-
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **princekhadwal475@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/princekhadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princekhadwal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince khadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince khadwal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/prince khadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prince khadwal" height="30" width="40" /></a>
-<a href="https://fb.com/prince khadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince khadwal" height="30" width="40" /></a>
-<a href="https://instagram.com/just_prince_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_prince_k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/princekhadwal475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princekhadwal475" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PrinceKhadwal&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/PrinceKhadwal?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/PrinceKhadwal?affiliations=OWNER&style=social"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princekhadwal&show_icons=true&locale=en&layout=compact" alt="princekhadwal" /></p>
+# 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princekhadwal&show_icons=true&locale=en" alt="princekhadwal" /></p>
+💻 Full Stack **MERN Developer** with **6+ months of industry experience**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekhadwal&" alt="princekhadwal" /></p>
+🌱 Currently learning **DevOps** to build, deploy and manage scalable cloud applications.
+
+⚡ Passionate about writing clean, scalable and production-ready code.
+
+🎯 My goal is to become a Full Stack Developer with strong DevOps expertise.
+
+📍 Mohali, Punjab, India
+
+---
+
+# 🌐 Portfolio
+
+### 🔗 Live Website
+
+### https://prince-k-portfolio.netlify.app/
+
+> **Note:** The backend is hosted on Render's free tier, so the first request may take **60–70 seconds** to wake up.
+
+---
+
+# 💬 Ask Me About
+
+- MERN Stack
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+- TypeScript
+- Docker
+- Linux
+- Git & GitHub
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+**princekhadwal475@gmail.com**
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/prince-khadwal" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/princekhadwal" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://instagram.com/just_prince_k" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://www.hackerrank.com/princekhadwal475" target="_blank">
+<img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,redux,tailwind,git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# ⚙️ DevOps Journey
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,githubactions,aws"/>
+
+</p>
+
+---
+
+# 📚 Current Learning Roadmap
+
+- ✅ Linux Fundamentals
+- ✅ Git & GitHub
+- ✅ Bash Scripting
+- ✅ Docker
+- ✅ Docker Compose
+- 🔄 GitHub Actions
+- 🔄 CI/CD Pipelines
+- ⏳ AWS EC2
+- ⏳ Nginx
+- ⏳ Kubernetes
+- ⏳ Terraform
+
+---
+
+# ⚡ Current Focus
+
+```text
+MERN Stack Development ██████████ 100%
+
+Linux                █████████░ 90%
+
+Docker               ████████░░ 80%
+
+Docker Compose       ███████░░░ 70%
+
+GitHub Actions       ██████░░░░ 60%
+
+CI/CD                █████░░░░░ 50%
+
+AWS                  ███░░░░░░░ 30%
+```
+
+---
+
+# 🛠 Skills
+
+## Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Redux Toolkit
+- Tailwind CSS
+
+## Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+## DevOps
+
+- Linux
+- Bash
+- Docker
+- Docker Compose
+- GitHub Actions
+- CI/CD
+- AWS *(Learning)*
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrinceKhadwal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKhadwal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceKhadwal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceKhadwal&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceKhadwal&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> **"Consistency beats motivation. Small improvements every day lead to extraordinary results."**
+
+---
+
+<h2 align="center">🚀 Thanks for visiting my profile! 🚀</h2>
+
+<h3 align="center">
+⭐ If you like my work, don't forget to star my repositories! ⭐
+</h3>
