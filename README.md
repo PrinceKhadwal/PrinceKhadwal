@@ -118,8 +118,6 @@ AWS               ███░░░░░░░ 30%
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action from Platane/snk to make this work.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
