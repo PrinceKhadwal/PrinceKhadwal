@@ -1,88 +1,62 @@
+# Premium GitHub Profile README
+
+> **Note:** Replace your existing README.md with this content.
+
 ![logo](https://github.com/PrinceKhadwal/PrinceKhadwal/blob/main/github-header-image.png)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Prince%20Khadwal&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Prince Khadwal</h1>
 
-<h3 align="center">
-Full Stack MERN Developer | DevOps Learner | Building Scalable Web Applications
-</h3>
+<h3 align="center">Full Stack MERN Developer • DevOps Enthusiast • Building Scalable & Cloud-Ready Applications</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PrinceKhadwal&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/PrinceKhadwal?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/PrinceKhadwal?affiliations=OWNER&style=social"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+Docker+%7C+Linux+%7C+CI%2FCD;Future+AWS+%26+Kubernetes+Engineer;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PrinceKhadwal&label=Profile%20Views&color=7aa2f7&style=flat"/>
+<img src="https://img.shields.io/github/followers/PrinceKhadwal?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/PrinceKhadwal?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-💻 Full Stack **MERN Developer** with **6+ months of industry experience**
+- 💻 Full Stack **MERN Developer** with **6+ months of industry experience**
+- 🌱 Currently learning **DevOps** to build, deploy and manage scalable cloud applications.
+- ⚡ Passionate about writing clean, scalable and production-ready code.
+- 🎯 Goal: Become a Full Stack Developer with strong DevOps expertise.
+- 📍 Mohali, Punjab, India
 
-🌱 Currently learning **DevOps** to build, deploy and manage scalable cloud applications.
+## 🚀 Learning Journey
 
-⚡ Passionate about writing clean, scalable and production-ready code.
+```text
+Linux → Bash → Docker → Docker Compose → GitHub Actions → CI/CD → AWS → Kubernetes → Terraform
+```
 
-🎯 My goal is to become a Full Stack Developer with strong DevOps expertise.
+## 🌐 Portfolio
 
-📍 Mohali, Punjab, India
+**Live:** https://prince-k-portfolio.netlify.app/
 
----
+> Backend is hosted on Render free tier and may take 60–70 seconds to wake up.
 
-# 🌐 Portfolio
+## 💬 Ask Me About
 
-### 🔗 Live Website
+MERN • React • Next.js • Node.js • Express • MongoDB • TypeScript • REST APIs • JWT • Docker • Linux • Git
 
-### https://prince-k-portfolio.netlify.app/
+## 📫 Contact
 
-> **Note:** The backend is hosted on Render's free tier, so the first request may take **60–70 seconds** to wake up.
+**Email:** princekhadwal475@gmail.com
 
----
+# 🌍 Connect
 
-# 💬 Ask Me About
-
-- MERN Stack
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-- TypeScript
-- Docker
-- Linux
-- Git & GitHub
-
----
-
-# 📫 Contact Me
-
-📧 **Email**
-
-**princekhadwal475@gmail.com**
-
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/prince-khadwal-04003a229" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://x.com/PrinceKhadwal" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="https://www.instagram.com/just_prince_k_" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://www.hackerrank.com/princekhadwal475" target="_blank">
-<img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/>
-</a>
-
+<p>
+<a href="https://www.linkedin.com/in/prince-khadwal-04003a229"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://x.com/PrinceKhadwal"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://www.instagram.com/just_prince_k_"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://www.hackerrank.com/princekhadwal475"><img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/></a>
 </p>
 
 ---
@@ -90,146 +64,74 @@ Full Stack MERN Developer | DevOps Learner | Building Scalable Web Applications
 # 💻 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,redux,tailwind,git,github,vscode,postman"/>
-
 </p>
-
----
 
 # ⚙️ DevOps Journey
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,githubactions,aws"/>
-
 </p>
 
----
+## 📚 Roadmap
 
-# 📚 Current Learning Roadmap
-
-- ✅ Linux Fundamentals
+- ✅ Linux
 - ✅ Git & GitHub
-- ✅ Bash Scripting
+- ✅ Bash
 - ✅ Docker
 - ✅ Docker Compose
 - 🔄 GitHub Actions
-- 🔄 CI/CD Pipelines
-- ⏳ AWS EC2
+- 🔄 CI/CD
+- ⏳ AWS
 - ⏳ Nginx
 - ⏳ Kubernetes
 - ⏳ Terraform
 
----
-
-# ⚡ Current Focus
+## ⚡ Current Focus
 
 ```text
-MERN Stack Development ██████████ 100%
-
-Linux                █████████░ 90%
-
-Docker               ████████░░ 80%
-
-Docker Compose       ███████░░░ 70%
-
-GitHub Actions       ██████░░░░ 60%
-
-CI/CD                █████░░░░░ 50%
-
-AWS                  ███░░░░░░░ 30%
+MERN Stack        ██████████ 100%
+Linux             █████████░ 90%
+Docker            ████████░░ 80%
+Docker Compose    ███████░░░ 70%
+GitHub Actions    ██████░░░░ 60%
+CI/CD             █████░░░░░ 50%
+AWS               ███░░░░░░░ 30%
 ```
-
----
-
-# 🛠 Skills
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Redux Toolkit
-- Tailwind CSS
-
-## Backend
-
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-
-## DevOps
-
-- Linux
-- Bash
-- Docker
-- Docker Compose
-- GitHub Actions
-- CI/CD
-- AWS *(Learning)*
-
-## Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrinceKhadwal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKhadwal&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceKhadwal&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceKhadwal&theme=tokyo-night"/>
-
 </p>
 
-
----
-
-# 📈 GitHub Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceKhadwal&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
----
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action from Platane/snk to make this work.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 # 💡 Favorite Quote
 
 > **"Consistency beats motivation. Small improvements every day lead to extraordinary results."**
 
----
-
-<h2 align="center">🚀 Thanks for visiting my profile! 🚀</h2>
-
-<h3 align="center">
-⭐ If you like my work, don't forget to star my repositories! ⭐
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer"/>
