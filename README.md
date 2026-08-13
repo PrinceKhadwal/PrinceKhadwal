@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/github/stars/PrinceKhadwal?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/3b1b79d9-39c7-4f6f-80c8-2c7be780730a" />
-
 
 ---
 
