@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Prince%20Khadwal&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f95570cb-9086-48c5-ac95-58b07dde77e4" /><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Prince%20Khadwal&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Prince Khadwal</h1>
 
@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/github/followers/PrinceKhadwal?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/github/stars/PrinceKhadwal?affiliations=OWNER&style=for-the-badge"/>
 </p>
+
+<img align="center" width="400" alt="image" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif"></p>
 
 ---
 
