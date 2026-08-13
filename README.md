@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/github/stars/PrinceKhadwal?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
-<img align="center" width="400" alt="image" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif"></p>
+<img align="center" width="400" alt="image" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/785cce7b-9c82-434e-ae76-16aeec5376b2" />
+"></p>
 
 ---
 
